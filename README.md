@@ -14,9 +14,8 @@ This app shows how the back-end routes of an e-commerce store work in ThunderCli
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
+- [Credits](#credits)
 
 ---
 
@@ -27,7 +26,11 @@ To install the required dependencies, just run this code:
 ```
 npm i
 ```
+To seed the database run this code in command line:
 
+```
+npm run seed
+```
 ---
 
 ## Usage
@@ -37,7 +40,7 @@ To start just run
 npm start
 ```
 
-Video link on how the routes work : 
+Video link on how the routes work in Thunder-Client : [https://drive.google.com/file/d/1_iyKDmJk9n6KJiUA1sWY8Q2SQf1g5u-C/view](https://drive.google.com/file/d/1_iyKDmJk9n6KJiUA1sWY8Q2SQf1g5u-C/view)
 
 ---
 
@@ -55,6 +58,6 @@ You can find more about my work at my Github [oliver23n](https://github.com/oliv
 
 ## Credits
 
-Base code Developed and provided by Columbia Coding Bootcamp
+Base code Developed and provided by Columbia Coding Bootcamp.
 Back end ( Routes ) developed by Oliver Nasevski
 
